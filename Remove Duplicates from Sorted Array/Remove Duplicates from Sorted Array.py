@@ -7,3 +7,9 @@ def remove_duplicates(nums):
 nums = [1, 1, 2, 3, 3, 3, 4, 4, 4]
 unique_nums = remove_duplicates(nums)
 print(unique_nums)
+
+-------------------------
+| Prepared by -         |
+| Himel Sarder          |
+| Dept. of CSE, BSFMSTU |
+-------------------------
