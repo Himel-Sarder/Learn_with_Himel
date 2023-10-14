@@ -11,7 +11,11 @@ nums = [3,2,2,3], target = 3
 
 Output: nums = [2,2]
 
-
+-------------------------
+| Prepared by -         |
+| Himel Sarder          |
+| Dept. of CSE, BSFMSTU |
+-------------------------
 """
 def remove(nums):
     if not nums:
