@@ -19,6 +19,11 @@ Example 3:
 Input: nums = [1,3,5,6], target = 7
 Output: 4
 
+-------------------------
+| Prepared by -         |
+| Himel Sarder          |
+| Dept. of CSE, BSFMSTU |
+-------------------------
 """
 
 def Search(nums, target):
