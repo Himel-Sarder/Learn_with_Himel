@@ -24,7 +24,11 @@ The result of the merge is [1].
 Note that because m = 0, there are no elements in nums1. 
 The 0 is only there to ensure the merge result can fit in nums1.
 
-
+-------------------------
+| Prepared by -         |
+| Himel Sarder          |
+| Dept. of CSE, BSFMSTU |
+-------------------------
 """
 #Technic 1
 def merge(nums1, m, nums2, n):
