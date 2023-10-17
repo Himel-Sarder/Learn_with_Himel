@@ -18,7 +18,11 @@ Example 2:
 Input: numRows = 1
 Output: [[1]]
 
-
+-------------------------
+| Prepared by -         |
+| Himel Sarder          |
+| Dept. of CSE, BSFMSTU |
+-------------------------
 """
 def generate_pascals_triangle(numRows):
     triangle = [[1]]
